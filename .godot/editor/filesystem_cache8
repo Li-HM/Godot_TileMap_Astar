@@ -1,0 +1,13 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1717381445
+Astart.gd::GDScript::-1::1712544402::0::1::::<>TileMap<>::
+icon.svg::CompressedTexture2D::4785168870507306049::1710747842::1710747848::1::::<><>::
+::res://四边形/::1714374373
+333.png::CompressedTexture2D::4058090069879745909::1712477886::1712477886::1::::<><>::
+四边形.tscn::PackedScene::8832856140250959311::1714374373::0::1::::<><>::uid://bx21febqeibyb::::res://四边形/333.png<>res://Astart.gd<>uid://caf8bdgvb62bl::::res://icon.svg
+::res://尖顶六边形/::1714374373
+222.png::CompressedTexture2D::8627559868653861759::1712475664::1712476999::1::::<><>::
+尖顶六边形.tscn::PackedScene::8264000434779355683::1714374373::0::1::::<><>::uid://du6iweauu5db8::::res://尖顶六边形/222.png<>res://Astart.gd<>uid://caf8bdgvb62bl::::res://icon.svg
+::res://平顶六边形/::1714374373
+111.png::CompressedTexture2D::8948797543499314793::1710747909::1712476979::1::::<><>::
+平顶六边形.tscn::PackedScene::7051934035969509910::1714374373::0::1::::<><>::uid://d0q4ngwdxkss4::::res://平顶六边形/111.png<>res://Astart.gd<>uid://caf8bdgvb62bl::::res://icon.svg
